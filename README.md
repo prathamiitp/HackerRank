@@ -9,4 +9,5 @@
 <a href="https://www.hackerrank.com/challenges/c-tutorial-for-loop">Question5</a> : <a href="https://github.com/prathamiitp/HackerRank/blob/master/basicLoops.cpp">Answer5-basicLoops</a>  
 <a href="https://www.hackerrank.com/challenges/c-tutorial-functions">Question6</a> : <a href="https://github.com/prathamiitp/HackerRank/blob/master/maxofFourNo.cpp">Answer6-maxofFourNo</a>  
 <a href="https://www.hackerrank.com/challenges/c-tutorial-pointer">Question7</a> : <a href="https://github.com/prathamiitp/HackerRank/blob/master/basicPointers.cpp">Answer7-basicPointers</a>  
-<a href="https://www.hackerrank.com/challenges/arrays-introduction">Question8</a> : <a href="https://github.com/prathamiitp/HackerRank/blob/master/invertedArray.cpp">Answer8-invertedArray</a>
+<a href="https://www.hackerrank.com/challenges/arrays-introduction">Question8</a> : <a href="https://github.com/prathamiitp/HackerRank/blob/master/invertedArray.cpp">Answer8-invertedArray</a>  
+<a href="https://www.hackerrank.com/challenges/variable-sized-arrays">Question9</a> : <a href="https://github.com/prathamiitp/HackerRank/blob/master/dynamicallyCreatedVariableArray.cpp">Answer9-dynamicallyCreatedVariableArray</a>
