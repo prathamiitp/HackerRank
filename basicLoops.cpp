@@ -29,5 +29,6 @@ int main() {
         else 
             cout << "odd" << endl;
     }
+    
     return 0;
 }
